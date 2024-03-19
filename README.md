@@ -5,3 +5,4 @@ feel free to port anything from this over to simfphys or lvs, i dunno. just cred
 
 this contains multiple folders, as i was porting various things 
 i'm not gonna explain how to download stuff here
+some things may be inaccurate (only the textures) as i had to apply them myself
