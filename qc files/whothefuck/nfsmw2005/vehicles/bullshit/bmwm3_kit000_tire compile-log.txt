@@ -1,0 +1,96 @@
+// Created by Crowbar 0.72
+
+  Compiling "bmwm3_kit000_tire.qc" ...
+    Output from compiler "D:\SteamAPP\steamapps\common\GarrysMod\bin\studiomdl.exe": 
+      qdir:    "d:\steamapp\steamapps\common\garrysmod\garrysmod\models\whothefuck\nfsmw2005\vehicles\bullshit\"
+      gamedir: "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\"
+      g_path:  "bmwm3_kit000_tire.qc"
+      Building binary model files...
+      Working on "bmwm3_kit000_tire.qc"
+      SMD MODEL bmwm3_kit000_tire.smd
+      Processing LOD for material: tire
+      Processing LOD for material: tire_thread
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      WARNING: COSTLY COLLISION MODEL!!!! (47 parts - 3 allowed)
+      WARNING: Error with convex elements of bmwm3_kit000_tire.smd, building single convex!!!!
+      Model has 37 convex sub-parts
+      Collision model completed.
+      ---------------------
+      writing D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models/whothefuck\nsfmw2005\vehicles\bmwm3_kit000_tire.mdl:
+      bones          964 bytes (1)
+         animation       x       y       ips    angle
+             @idle    0.00    0.00 :     inf (   0.00) 0.0
+      animations     124 bytes (1 anims) (1 frames) [0:01]
+      sequences      220 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       140 bytes
+      keyvalues        0 bytes
+      bone transforms        0 bytes
+      bone flex driver       0 bytes
+      Collision model volume 21943.18 in^3
+      collision        0 bytes
+      total         2008
+      ---------------------
+      writing D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models/whothefuck\nsfmw2005\vehicles\bmwm3_kit000_tire.vvd:
+      vertices     64944 bytes (1353 vertices)
+      tangents     21648 bytes (1353 vertices)
+      total        86656 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models/whothefuck\nsfmw2005\vehicles\bmwm3_kit000_tire.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            18 bytes
+      strip groups:      50 bytes
+      strips:            54 bytes
+      verts:          12177 bytes
+      indices:         7470 bytes
+      bone changes:       8 bytes
+      everything:     19841 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models/whothefuck\nsfmw2005\vehicles\bmwm3_kit000_tire.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            18 bytes
+      strip groups:      50 bytes
+      strips:            54 bytes
+      verts:          12177 bytes
+      indices:         7470 bytes
+      bone changes:      24 bytes
+      everything:     19857 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models/whothefuck\nsfmw2005\vehicles\bmwm3_kit000_tire.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            18 bytes
+      strip groups:      50 bytes
+      strips:            54 bytes
+      verts:          12177 bytes
+      indices:         7470 bytes
+      bone changes:      24 bytes
+      everything:     19857 bytes
+      
+      Completed "bmwm3_kit000_tire.qc"
+    CROWBAR: Moved compiled model file "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models\whothefuck\nsfmw2005\vehicles\bmwm3_kit000_tire.dx80.vtx" to "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models\whothefuck\nfsmw2005\vehicles\models\whothefuck\nsfmw2005\vehicles"
+    CROWBAR: Moved compiled model file "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models\whothefuck\nsfmw2005\vehicles\bmwm3_kit000_tire.dx90.vtx" to "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models\whothefuck\nfsmw2005\vehicles\models\whothefuck\nsfmw2005\vehicles"
+    CROWBAR: Moved compiled model file "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models\whothefuck\nsfmw2005\vehicles\bmwm3_kit000_tire.mdl" to "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models\whothefuck\nfsmw2005\vehicles\models\whothefuck\nsfmw2005\vehicles"
+    CROWBAR: Moved compiled model file "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models\whothefuck\nsfmw2005\vehicles\bmwm3_kit000_tire.phy" to "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models\whothefuck\nfsmw2005\vehicles\models\whothefuck\nsfmw2005\vehicles"
+    CROWBAR: Moved compiled model file "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models\whothefuck\nsfmw2005\vehicles\bmwm3_kit000_tire.sw.vtx" to "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models\whothefuck\nfsmw2005\vehicles\models\whothefuck\nsfmw2005\vehicles"
+    CROWBAR: Moved compiled model file "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models\whothefuck\nsfmw2005\vehicles\bmwm3_kit000_tire.vvd" to "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models\whothefuck\nfsmw2005\vehicles\models\whothefuck\nsfmw2005\vehicles"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamAPP\steamapps\common\GarrysMod\garrysmod\models\whothefuck\nsfmw2005".
+  ... Compiling "bmwm3_kit000_tire.qc" finished. Check above for any errors.
